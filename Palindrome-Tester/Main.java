@@ -1,26 +1,26 @@
 public class Main {
     public static void main(String[] args) {
-        palindromeTester("Palindrome");
-        palindromeTester("Civic");
-        palindromeTester("Radar");
-        palindromeTester("Level");
-        palindromeTester("Eva, can I stab bats in a cave?");
-        palindromeTester("A man, a plan, a canal, Panama");
-        palindromeTester("Mr. Owl ate my metal worm");
-        palindromeTester("Never odd or even");
-        palindromeTester("Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod.");
+        Tester("Palindrome");
+        Tester("Civic");
+        Tester("Radar");
+        Tester("Level");
+        Tester("Eva, can I stab bats in a cave?");
+        Tester("A man, a plan, a canal, Panama");
+        Tester("Mr. Owl ate my metal worm");
+        Tester("Never odd or even");
+        Tester("Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod.");
     }
 
-    public static void palindromeTester(String a) {
-        String b = charRemover(a);
-        String c = stringReverser(b);
-        boolean d = stringChecker(c,b);
+    public static void Tester(String a) {
+        String b = Remove(a);
+        String c = Reverse(b);
+        boolean d = Checke(c,b);
         if (d) {
             System.out.println("\"" + a + "\" is a palindrome. \n"); }
         else {System.out.println("\"" + a + "\" is NOT a palindrome. \n");}
     }
 
-    public static String charRemover(String a) {
+    public static String Remove(String a) {
         String b = "";
         String c = "";
         char d = 1;
@@ -36,7 +36,7 @@ public class Main {
         return b;
     }
 
-    public static String stringReverser(String b) {
+    public static String Reverse(String b) {
         String c = "";
         char d = 1;
         int length = b.length();
@@ -47,7 +47,7 @@ public class Main {
         return c;
     }
 
-    public static boolean stringChecker(String c, String b) {
+    public static boolean Checke(String c, String b) {
         boolean equality = false;
         if (c.equals(b)) {equality = true;}
         return equality;
