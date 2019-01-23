@@ -1,0 +1,33 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57230:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/nicholasseverino/IdeaProjects/StuffWithStrings/out/production/StuffWithStrings Main
+There were a total of 242 votes.
+
+For the office of President: 
+Mordy Golding received 70 votes.
+Shira Gotshalk received 61 votes.
+Stephanie Evans received 54 votes.
+Ray Villalobos received 57 votes.
+Mordy Golding won!
+
+For the office of Vice President: 
+ Dona Sarkar received 66 votes.
+Tyler Ahn received 64 votes.
+Joe Camp received 57 votes.
+Brandon LeBlanc received 55 votes.
+Dona Sarkar won!
+
+For the office of Secretary: 
+Jason Howard received 66 votes.
+Nikki Rubino received 64 votes.
+Peggy Fisher received 53 votes.
+Neil Edde received 59 votes.
+Jason Howard won!
+
+For the office of Treasurer: 
+David Gassner received 60 votes.
+Sharon Bennett received 50 votes.
+Walt Ritscher received 67 votes.
+Heather Hurley received 65 votes.
+Walt Ritscher won!
+
+
+Process finished with exit code 0
