@@ -1,1 +1,45 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=62840:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/nicholasseverino/IdeaProjects/PVP-Battleground/out/production/PVP-Battleground Main
+Nick, a Fighter:
+CON:  15 
+ HP:  62/ 62
+ MP:   0/  0
+STR:  16
+INT:  10
+AGI:  13
+
+There are, 1 characters
+
+Avani, a Paladin:
+CON:  16 
+ WIS:  15 
+ HP:  47/ 47
+ MP:  46/ 46
+STR:  15
+INT:  16
+AGI:  10
+
+There are, 2 characters
+
+Pickles, a Priest:
+CHA:  16 
+ HP:   9/  9
+ MP:  53/ 53
+STR:   9
+INT:  21
+AGI:  12
+
+There are, 3 characters
+
+Tajin, a Mage:
+WIS:  16 
+ HP:  11/ 11
+ MP:  49/ 49
+STR:  11
+INT:  17
+AGI:  13
+
+There are, 4 characters
+
+
+Process finished with exit code 0
 
