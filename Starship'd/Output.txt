@@ -1,0 +1,95 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58579:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/nicholasseverino/IdeaProjects/Staship/out/production/Staship Main
+Fleet:
+
+
+
+
+California:      Hull: 1058    Shields: 2647    Beam Weapons: 2784    Torpedoes: 17
+
+
+
+Nevada:      Hull: 1221    Shields: 3158    Beam Weapons: 2943    Torpedoes: 18
+
+
+
+Washington:      Hull: 1219    Shields: 3069    Beam Weapons: 2583    Torpedoes: 20
+
+
+
+New York:      Hull: 1063    Shields: 2946    Beam Weapons: 2607    Torpedoes: 17
+
+
+
+Vermont:      Hull: 1130    Shields: 2721    Beam Weapons: 2579    Torpedoes: 13
+
+
+
+
+
+Deleware:      Hull: 1690    Shields: 2165    Beam Weapons: 2580    Torpedoes: 28
+
+
+
+Conneticut:      Hull: 1967    Shields: 2209    Beam Weapons: 2542    Torpedoes: 22
+
+
+
+Illinois:      Hull: 1523    Shields: 2216    Beam Weapons: 2886    Torpedoes: 30
+
+
+
+Georgia:      Hull: 1819    Shields: 2216    Beam Weapons: 2619    Torpedoes: 21
+
+
+
+South Dakota:      Hull: 1956    Shields: 2230    Beam Weapons: 2876    Torpedoes: 28
+
+
+
+
+
+Canada:      Hull: 2369    Shields: 2274    Beam Weapons: 3287    Torpedoes: 14
+
+
+
+Britan:      Hull: 2211    Shields: 2137    Beam Weapons: 3158    Torpedoes: 14
+
+
+
+Florida:      Hull: 2332    Shields: 2244    Beam Weapons: 3622    Torpedoes: 19
+
+
+
+Montana:      Hull: 2279    Shields: 2360    Beam Weapons: 3805    Torpedoes: 15
+
+
+
+Iowa:      Hull: 2035    Shields: 2405    Beam Weapons: 3935    Torpedoes: 25
+
+
+
+
+
+TEXAS:      Hull: 3774    Shields: 1864    Beam Weapons: 4831    Torpedoes: 43
+
+
+
+Alabama:      Hull: 3916    Shields: 1922    Beam Weapons: 4584    Torpedoes: 46
+
+
+
+N Dakota:      Hull: 3522    Shields: 1567    Beam Weapons: 4537    Torpedoes: 46
+
+
+
+Nebrasla:      Hull: 4350    Shields: 1559    Beam Weapons: 4831    Torpedoes: 47
+
+
+
+Hawwaii:      Hull: 3124    Shields: 1957    Beam Weapons: 4916    Torpedoes: 43
+
+
+
+
+Number of Ships: 20
+Process finished with exit code 0
